@@ -15,4 +15,4 @@ Simply tick what levels you've already achieved, and tick what you could potenti
 `File > Make a Copy` so you can start editing the copy and playing with the calc
 
 
-_[Main Menu](../readme.md)_
+_[Main Menu](../)_
