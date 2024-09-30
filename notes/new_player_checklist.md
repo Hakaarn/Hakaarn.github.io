@@ -9,7 +9,7 @@ Also check out [MaxRoll Gear Progeession Guide](https://maxroll.gg/lost-ark/reso
 
 # Daily
 
-## [Wandering merchants[(https://maxroll.gg/lost-ark/resources/wandering-merchant-guide)
+## [Wandering merchants](https://maxroll.gg/lost-ark/resources/wandering-merchant-guide)
 
 Notable cards:  
 Laitir (Yorn) sells Balthorr Card  
@@ -158,6 +158,5 @@ Make sure to do the Arkesia Tour (icon left of your minimap) - it will speed you
 
 [Runes](https://maxroll.gg/lost-ark/resources/skill-rune-collection-guide)
 
-[Gems](
 
 _[Main Menu](../)_
