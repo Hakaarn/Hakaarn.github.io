@@ -1,3 +1,6 @@
+* TOC
+{:toc}
+
 # Daily
 
 ## Wandering merchants
@@ -137,9 +140,8 @@ Collect all potions: https://maxroll.gg/lost-ark/resources/lost-ark-skill-point-
 Level up to 60 through quests/raid/dungeons
 
 
-
-_[Main Menu](../readme.md)_
-
 ## Horizontal Progression
 
 Make sure to do the Arkesia Tour (icon left of your minimap) - it will speed you through a lot of collection for each map (almost 80% for most)
+
+_[Main Menu](../)_
