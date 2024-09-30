@@ -1,4 +1,4 @@
-# Daily:
+# Daily
 
 ## Wandering merchants
 
@@ -126,6 +126,8 @@ This will also reward you lots of materials and silver
 
 Do main story quests on your alts. I personally use Knowledge Transfer (in your stronghold) to get them to lvl 50 and ilvl500, hone and knowledge transfer until South Vern, then I do all the main story quests from there until Kurzan (included) for card packs. This takes A LOT of time, but guaranteed way to get card packs.
 
+![MSQ Card Packs reward](msq_rewards_elgacia_up.png)
+
 Work on collecting masterpieces for guaranteed 1x Wei card and 1x Legendary card pack
 
 ## Skill Points
@@ -133,6 +135,10 @@ Work on collecting masterpieces for guaranteed 1x Wei card and 1x Legendary card
 Collect all potions: https://maxroll.gg/lost-ark/resources/lost-ark-skill-point-guide#skill-points-sources-header
 
 Level up to 60 through quests/raid/dungeons
+
+
+
+_[Main Menu](../readme.md)_
 
 ## Horizontal Progression
 
